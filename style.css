@@ -14,6 +14,10 @@
     float: right;
 }
 
+.bor {
+    border-radius: 100% ;
+}
+
 
 .size{
     width: 300px;
