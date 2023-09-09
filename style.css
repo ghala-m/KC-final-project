@@ -7,15 +7,35 @@
     background-color: rgb(58, 56, 56);
 }
 .w{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255)  !important;
 }
 
 .jh{
-    float: right;
+    display: block;
+    float: right  !important;
+    align-items: right   !important;
+    text-align: right  !important;
 }
 
+.jw{
+    display: block !important;
+    flex: content  !important;
+    align-items: center  !important;
+    text-align: center !important;
+    color: rgb(255, 255, 255)  !important;
+}
+
+.jk{
+    display: block !important;
+    flex: content  !important;
+    align-items: center  !important;
+    text-align: center !important;
+
+}
+
+
 .bor {
-    
+    border-radius: 100%;
     width: 200px;
     height: 200px;
 }
@@ -24,6 +44,11 @@
 .size{
     width: 300px;
     height: 500px;
+}
+
+.size5{
+    width: 500px;
+    height: 300px;
 }
 
 
@@ -40,13 +65,13 @@
 
 .size3{
     height: 100%;
-  
+  width: 200px;
 }
 
 
 .size4{
-    height: 500px;
-    width: 700px;
+    height: 400px;
+    width: 400px;
 }
 
 
