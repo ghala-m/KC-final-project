@@ -9,6 +9,10 @@
 .w{
     color: rgb(255, 255, 255)  !important;
 }
+.d{
+    color: rgb(2, 2, 2)  !important;
+}
+
 
 .jh{
     display: block;
@@ -66,7 +70,7 @@
 
 .size3{
     height: 100%;
-  width: 200px;
+  width: 100%;
 }
 
 
