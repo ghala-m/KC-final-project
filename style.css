@@ -1,5 +1,5 @@
 .bg{
-    background-color: rgb(29, 27, 27);
+    background-color: #1d1b1b;
 }
 
 
@@ -21,13 +21,7 @@
     text-align: right  !important;
 }
 
-.jw{
-    display: block !important;
-    flex: content  !important;
-    align-items: center  !important;
-    text-align: center !important;
-    color: rgb(255, 255, 255)  !important;
-}
+
 
 .jk{
     display: block !important;
@@ -60,6 +54,11 @@
 .size1{
     width: 100%;
     height: 35px;
+}
+
+.sizee{
+    width: 200px;
+    height: 500px;
 }
 
 .size2{
