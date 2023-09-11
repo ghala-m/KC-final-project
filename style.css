@@ -32,8 +32,32 @@
 
 }
 
+.jm{
+    margin: 0px 0px 0px 75px;
+
+}
+.fo{
+    width: 285px;
+    height: 285px;
+}
+
+.box{
+
+    background-color: #000;
+    color: #fefcfc;
+    width: 100%;
+    height: 350px;
+}
 
 
+.jl{
+display: block; 
+flex: content;
+margin: 50px;
+padding: 5% ;
+box-shadow: 50px rgb(255, 255, 255);
+
+}
 
 .linear
 {
